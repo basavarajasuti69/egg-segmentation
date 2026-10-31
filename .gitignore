@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local data and large generated files
+data/
+*.mp4
+*.mov
+*.avi
+*.zip
+*.pt
+*.pth
+*.onnx
+
+# Secrets
+.env
+.env.*
