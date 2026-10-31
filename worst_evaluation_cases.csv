@@ -1,0 +1,6 @@
+filename,source_path,IoU,Dice,predicted_pixels,ground_truth_pixels
+not_damaged_129_jpg.rf.3cee5e92daed138fcdc13d9aa62c2785.jpg,/content/data/train/egg/not_damaged_129_jpg.rf.3cee5e92daed138fcdc13d9aa62c2785.jpg,0.0,0.0,2166,54280
+not_damaged_6_jpg.rf.1b79fa07c23ef838f19c9a226c9022f5.jpg,/content/data/valid/egg/not_damaged_6_jpg.rf.1b79fa07c23ef838f19c9a226c9022f5.jpg,0.0004298354958152,0.0008593016332868,123030,39893
+not_damaged_4_jpg.rf.36c78b63ea4710d9642651ac3292fd58.jpg,/content/data/test/egg/not_damaged_4_jpg.rf.36c78b63ea4710d9642651ac3292fd58.jpg,0.0229430858248825,0.0448570133427935,5274,96204
+not_damaged_5_jpg.rf.395cc7ec9b988f25e77e403ef537737e.jpg,/content/data/train/egg/not_damaged_5_jpg.rf.395cc7ec9b988f25e77e403ef537737e.jpg,0.0450392759562841,0.0861963315494914,2110,46848
+not_damaged_117_jpg.rf.d25ded9e7408f9b89b3cfb3de581f6a6.jpg,/content/data/train/egg/not_damaged_117_jpg.rf.d25ded9e7408f9b89b3cfb3de581f6a6.jpg,0.0533949823396927,0.1013769445172356,159389,8519

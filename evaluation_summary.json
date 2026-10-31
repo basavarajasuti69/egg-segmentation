@@ -1,0 +1,11 @@
+{
+  "evaluation_images": 22,
+  "mean_IoU": 0.5319878155420701,
+  "median_IoU": 0.5818203639194679,
+  "mean_Dice": 0.6039314771099639,
+  "images_with_IoU_below_0.5": 10,
+  "images_with_IoU_at_least_0.5": 12,
+  "development_best_trial": 7,
+  "development_best_mIoU": 0.6405,
+  "algorithm_status": "Frozen; no further tuning"
+}
