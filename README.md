@@ -5,16 +5,6 @@ A computer vision project developed for the CV Intern Task. The project covers p
 **Author:** Basavaraj N Asuti
 **GitHub Repository:** [https://github.com/basavarajasuti69/egg-segmentation](https://github.com/basavarajasuti69/egg-segmentation)
 
-### Output Video
-
-**[Watch the final egg-tracking video on Google Drive](https://drive.google.com/file/d/1vIVKLtKufem7F6pb_bMC0VSyC-Na3iEo/view?usp=sharing)**
-
-The output tracking data is provided in `egg_tracks_two_ids.csv`.
-
-**Access note:** The Google Drive video must be shared with **Anyone with the link — Viewer** so the reviewer can open it.
-
----
-
 ---
 
 ## Table of Contents
@@ -167,6 +157,15 @@ The output assigns separate labels to the two eggs. Constraining the tracker to 
 
 Hands, foreground objects, and partial occlusions can interfere with detection and tracking.
 
+### Output Video
+
+**[Watch the final egg-tracking video on Google Drive](https://drive.google.com/file/d/1vIVKLtKufem7F6pb_bMC0VSyC-Na3iEo/view?usp=sharing)**
+
+The output tracking data is provided in `egg_tracks_two_ids.csv`.
+
+**Access note:** The Google Drive video must be shared with **Anyone with the link — Viewer** so the reviewer can open it.
+
+---
 
 ## Results Summary
 
